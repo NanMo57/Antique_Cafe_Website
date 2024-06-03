@@ -45,14 +45,14 @@ section{
     padding: 18px 25px;
     max-width:var(--w);
     height:var(--h);
-    min-width:368px;
+    min-width:285px;
 }
 .BrownColor{
     color: #b5875b;
 }
 .CenterDiv{
    padding-top: 160px;
-   padding-bottom: 5%;
+   padding-bottom: 160px;
 }
 li a:hover,.active{
     border-bottom: 3px solid #ecbe93;
