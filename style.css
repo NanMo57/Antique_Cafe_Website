@@ -162,4 +162,7 @@ textarea{
         flex-direction: column;
         align-items: center;
     }
+    .menu{
+       height: 330vh;
+    }
 }
